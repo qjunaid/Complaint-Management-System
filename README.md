@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junaid Ahmad
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Reacjs
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Projects
 - 📫 You can reach me @qjunaid
 
